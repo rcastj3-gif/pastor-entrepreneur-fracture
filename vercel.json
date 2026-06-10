@@ -3,12 +3,6 @@
   "env": {
     "GRAWT_API_KEY": "@grawt_api_key"
   },
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/node"
-    }
-  ],
   "routes": [
     {
       "src": "/api/(.*)",
