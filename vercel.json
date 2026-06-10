@@ -1,8 +1,5 @@
 {
   "version": 2,
-  "env": {
-    "GRAWT_API_KEY": "@grawt_api_key"
-  },
   "routes": [
     {
       "src": "/api/(.*)",
