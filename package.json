@@ -1,0 +1,28 @@
+{
+  "name": "pastor-entrepreneur-fracture-landing",
+  "version": "1.0.0",
+  "description": "The Pastor-Entrepreneur Fracture Authority Diagnostic Landing Page",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "start": "vercel start",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "pastor",
+    "entrepreneur",
+    "authority",
+    "positioning",
+    "coaching"
+  ],
+  "author": "Reyes Castillo",
+  "license": "PROPRIETARY",
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^latest"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
