@@ -4,10 +4,7 @@
   "description": "The Pastor-Entrepreneur Fracture Authority Diagnostic Landing Page",
   "private": true,
   "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build",
-    "start": "vercel start",
-    "deploy": "vercel --prod"
+    "build": "echo 'Static site - no build required'"
   },
   "keywords": [
     "pastor",
